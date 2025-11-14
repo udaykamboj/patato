@@ -1,0 +1,3 @@
+#   Example Robot: XRP Reference
+
+An example command-based robot program that can be used with the XRP reference robot design. XRP = _Experiential Robotics Platform_, a teaching/learning platform. See the [Getting Started with XRP](https://docs.wpilib.org/en/stable/docs/xrp-robot/index.html) and [Command-Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html) sections of the WPI Lib Docs for more information.
